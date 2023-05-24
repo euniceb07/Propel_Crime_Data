@@ -18,12 +18,13 @@ On average, how often does burglary occur in Los Angeles from 2020 to Present?
 # Visualizations 
 
 
-![Screenshot (729)](https://github.com/euniceb07/Propel_Crime_Data/assets/134234493/e7617815-a820-4642-9c73-68223fb3191a)
-
-![Screenshot (731)](https://github.com/euniceb07/Propel_Crime_Data/assets/134234493/4735e8d5-18a4-437b-90df-7157360e0317)
+![dats](https://github.com/euniceb07/Propel_Crime_Data/assets/134234493/3a86569b-35ff-49c3-907c-14d7b33b9cf2)
 
 
-# Resource:
+
+
+# Resource:![plots](https://github.com/euniceb07/Propel_Crime_Data/assets/134234493/d070f2ca-f872-43b1-b2d1-cc2c7146f217)
+
 https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 # Video Link:
 
