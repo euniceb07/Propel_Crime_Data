@@ -14,6 +14,15 @@ We are interested in seeing the number of specific crime rates in Los Angeles. I
 # Questions of interest
 On average, how often does theft occur in Los Angeles from 2020 to Present?
 On average, how often does burglary occur in Los Angeles from 2020 to Present?
+
+# Visualizations 
+
+
+![Screenshot (729)](https://github.com/euniceb07/Propel_Crime_Data/assets/134234493/e7617815-a820-4642-9c73-68223fb3191a)
+
+![Screenshot (731)](https://github.com/euniceb07/Propel_Crime_Data/assets/134234493/4735e8d5-18a4-437b-90df-7157360e0317)
+
+
 # Resource:
 https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 # Video Link:
