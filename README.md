@@ -1,5 +1,5 @@
 # Propel_Crime_Data
-This is our Data Repository for Propel's R course 2023. By: Andreana Gomez and Eunice Bonfil. 
+This is our Data Repository for Propel's 2023 R-course. By: Andreana Gomez and Eunice Bonfil. 
 # These are the packages we installed
 install.packages("usethis")
 install.packages("learnr")
